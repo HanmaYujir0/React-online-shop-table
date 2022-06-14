@@ -1,0 +1,30 @@
+td {
+  border: 1px solid black;
+  text-align: center;
+}
+
+table {
+  border-collapse:collapse;
+  width: 70%;
+  background-color: pink;
+}
+
+.id {
+width: 20%;
+}
+
+.left {
+  width: 20%;
+}
+
+.name {
+  width: 20%;
+}
+.price {
+  widows: 20%;
+}
+
+.image {
+  width: 20%;
+  background-color: white;
+}
